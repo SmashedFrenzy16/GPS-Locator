@@ -2,6 +2,13 @@
 
 This is a GPS locator app made in Python using TKinter.
 
+## Prerequisites
+
+- `folium` - `pip install folium`
+- `requests` - `pip install requests`
+- `selenium` - `pip install selenium`
+- `datetime` - `pip install datetime`
+
 ## Run
 
 - Run `python3 gps_viewer.py` in a terminal if you have Mac/Linux.
